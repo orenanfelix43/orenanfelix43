@@ -1,4 +1,4 @@
-# 👨‍💻 Olá, eu sou o Renan Felix!
+# Olá, eu sou o Renan Felix!😊👋
 
 Sou apaixonado por **tecnologia** e estou iniciando minha jornada na **programação**.  
 Formado em **Análise e Desenvolvimento de Sistemas** na FACENS (conclusão em 12/2024)  
