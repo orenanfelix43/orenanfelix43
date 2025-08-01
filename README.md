@@ -28,7 +28,7 @@ Faço cursos na **Alura** para acelerar minha transição para a área de **TI**
 
 ## 📬 Vamos nos conectar?
 - **E-mail:** orenan21.09@gmail.com  
-- **LinkedIn:** *[(https://www.linkedin.com/in/renan-felix-601b57175/)]*  
+- **LinkedIn:** *https://www.linkedin.com/in/renan-felix-601b57175/*  
 
 ---
 
