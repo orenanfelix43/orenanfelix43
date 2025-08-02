@@ -15,7 +15,7 @@ Faço cursos na **Alura** para acelerar minha transição para a área de **TI**
 - 🎓 Formado em Técnico em Administração e Informática  
 - 📊 Experiência prática com **Power BI**, **Excel Avançado** e **TOTVS Datasul**  
 - 📦 Histórico em **compras, manutenção e estoques**, sempre com foco em **processos e dados**  
-- 🌱 Atualmente aprendendo **lógica de programação**, **Python** e **SQL**  
+- 🌱 Atualmente aprendendo **lógica de programação**, **JavaScript**, **HTML** e **CSS**  
 
 ---
 
