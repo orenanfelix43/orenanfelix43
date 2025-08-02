@@ -1,7 +1,7 @@
 # Olá, eu sou o Renan Felix!😊👋
 
 Sou apaixonado por **tecnologia** e estou iniciando minha jornada na **programação**.  
-Formado em **Análise e Desenvolvimento de Sistemas** na FACENS
+Formado em **Análise e Desenvolvimento de Sistemas** na FACENS       
 Faço cursos na **Alura** para acelerar minha transição para a área de **TI**.
 
 💡 Meu objetivo é conquistar minha **primeira oportunidade em tecnologia**, com foco em:  
