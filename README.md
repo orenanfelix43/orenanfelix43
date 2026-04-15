@@ -1,6 +1,7 @@
 # Renan Felix — Dev de Software Jr
 
 **Desenvolvedor com foco em Front-End e Full Stack | Power BI | QA**
+
 Porto Feliz, SP · Disponível para oportunidades ✅
 
 ---
