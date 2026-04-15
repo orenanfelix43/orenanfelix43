@@ -1,35 +1,51 @@
-# Olá, eu sou o Renan Felix!😊👋
+# Renan Felix — Dev de Software Jr
 
-Sou apaixonado por **tecnologia** e estou iniciando minha jornada na **programação**.  
-Formado em **Análise e Desenvolvimento de Sistemas** na FACENS       
-Faço cursos na **Alura** para acelerar minha transição para a área de **TI**.
-
-💡 Meu objetivo é conquistar minha **primeira oportunidade em tecnologia**, com foco em:  
-- **Desenvolvimento de Sistemas**  
-- **Análise de Dados / BI**  
-- **Suporte Técnico e Automação de Processos**  
+**Desenvolvedor com foco em Front-End e Full Stack | Power BI | QA**
+Porto Feliz, SP · Disponível para oportunidades ✅
 
 ---
 
-## 🚀 Um pouco sobre mim
-- 🎓 Formado em Técnico em Administração e Informática  
-- 📊 Experiência prática com **Power BI**, **Excel Avançado** e **TOTVS Datasul**  
-- 📦 Histórico em **compras, manutenção e estoques**, sempre com foco em **processos e dados**  
-- 🌱 Atualmente aprendendo **lógica de programação**, **JavaScript**, **HTML** e **CSS**  
+## 🛠 Stack Principal
+
+**Frontend**: JavaScript (ES6+) · TypeScript · React · Next.js · Tailwind CSS · GSAP
+**Backend**: Node.js · MongoDB · SQL · Integração de APIs REST
+**Dados & BI**: Power BI (DAX Avançado) · Excel/VBA · TOTVS Datasul
+**Qualidade**: QA · Gestão de Bugs · Git/GitHub · Scrum · Kanban
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
-- **Ferramentas:** Power BI, Excel Avançado, Pacote Office  
-- **Sistemas:** TOTVS Datasul, Pipefy  
-- **Plataformas:** Amazon, Mercado Livre, Shopee  
+## 🚀 Projetos em Destaque
+
+**[Garq Imóveis](https://github.com/orenanfelix43/garq-imoveis)**
+Sistema de gestão imobiliária com CRUD completo, filtros dinâmicos e persistência de dados.
+`JavaScript` `DOM Manipulation` `CRUD`
+
+**[Portfólio Pessoal](https://portfolio-renan-one.vercel.app)**
+Site com animações GSAP, design system Tailwind e arquitetura Next.js App Router.
+`Next.js` `TypeScript` `Tailwind CSS` `GSAP`
+
+**[Dashboard Analítico Power BI](#)**
+Painel de gestão com DAX avançado, modelagem de dados e relatórios dinâmicos.
+`Power BI` `DAX` `Excel` `KPIs`
 
 ---
 
-## 📬 Vamos nos conectar?
-- **E-mail:** orenan21.09@gmail.com  
-- **LinkedIn:** *https://www.linkedin.com/in/renan-felix-601b57175/*  
+## 🎓 Formação & Certificações
+
+- **Tecnólogo em ADS** — FACENS · Concluído Dezembro/2024
+- Lógica de Programação com JavaScript — Alura
+- Git e GitHub · Quality Assurance · Power BI DAX — Alura
+- Equipes Ágeis (Scrum e Kanban) — Alura
 
 ---
 
-> “Todo especialista já foi um iniciante. Estou pronto para aprender e crescer na área de tecnologia!” 🚀
+## 📬 Contato
+
+📧 renan.d2109@gmail.com
+📱 (11) 99881-5217
+🌐 [portfolio-renan-one.vercel.app](https://portfolio-renan-one.vercel.app)
+💼 [linkedin.com/in/renan-felix-601b57175](https://www.linkedin.com/in/renan-felix-601b57175/)
+
+---
+
+> *"Experiência operacional + formação técnica + visão de produto. Em transição estruturada para desenvolvimento de software."*
