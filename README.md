@@ -46,8 +46,11 @@ Painel de gestão com DAX avançado, modelagem de dados e relatórios dinâmicos
 ## 📬 Contato
 
 📧 renan.d2109@gmail.com
+
 📱 (11) 99881-5217
+
 🌐 [portfolio-renan-one.vercel.app](https://portfolio-renan-one.vercel.app)
+
 💼 [linkedin.com/in/renan-felix-601b57175](https://www.linkedin.com/in/renan-felix-601b57175/)
 
 ---
