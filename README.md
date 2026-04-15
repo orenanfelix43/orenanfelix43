@@ -9,8 +9,11 @@ Porto Feliz, SP · Disponível para oportunidades ✅
 ## 🛠 Stack Principal
 
 **Frontend**: JavaScript (ES6+) · TypeScript · React · Next.js · Tailwind CSS · GSAP
+
 **Backend**: Node.js · MongoDB · SQL · Integração de APIs REST
+
 **Dados & BI**: Power BI (DAX Avançado) · Excel/VBA · TOTVS Datasul
+
 **Qualidade**: QA · Gestão de Bugs · Git/GitHub · Scrum · Kanban
 
 ---
