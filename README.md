@@ -8,7 +8,7 @@ Porto Feliz, SP · Disponível para oportunidades ✅
 
 ## 🛠 Stack Principal
 
-**Frontend**: JavaScript (ES6+) · TypeScript · React · Next.js · Tailwind CSS · GSAP
+**Frontend**: `JavaScript (ES6+)` · TypeScript · React · Next.js · Tailwind CSS · GSAP
 
 **Backend**: Node.js · MongoDB · SQL · Integração de APIs REST
 
